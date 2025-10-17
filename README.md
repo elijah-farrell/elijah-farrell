@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there, I'm Elijah Farrell
 
-<!--
-**elijah-farrell/elijah-farrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a strong background in computer science.  
+I enjoy building impactful projects, solving complex problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijah-farrell&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elijah-farrell&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijah-farrell&theme=dark&show_icons=true&hide_border=true&layout=pie)
+
+
+
+Thanks for visiting — feel free to explore my work or get in touch.
