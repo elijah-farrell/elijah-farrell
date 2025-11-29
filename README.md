@@ -9,12 +9,12 @@ I enjoy building impactful projects, solving complex problems, and continuously 
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=elijah-farrell&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
-     onerror="this.style.display='none'" />
+      onerror="this.remove()" />
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=elijah-farrell&theme=dark&hide_border=true"
-     onerror="this.style.display='none'" />
+      onerror="this.remove()" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elijah-farrell&theme=dark&show_icons=true&hide_border=true&layout=pie"
-     onerror="this.style.display='none'" />
+      onerror="this.remove()" />
