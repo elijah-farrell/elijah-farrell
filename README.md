@@ -7,8 +7,14 @@ I enjoy building impactful projects, solving complex problems, and continuously 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=elijah-farrell&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=elijah-farrell&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+     onerror="this.style.display='none'" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=elijah-farrell&theme=dark&hide_border=true)
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=elijah-farrell&theme=dark&hide_border=true"
+     onerror="this.style.display='none'" />
 
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elijah-farrell&theme=dark&show_icons=true&hide_border=true&layout=pie)
+<!-- Top Languages -->
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elijah-farrell&theme=dark&show_icons=true&hide_border=true&layout=pie"
+     onerror="this.style.display='none'" />
