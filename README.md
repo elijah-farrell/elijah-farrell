@@ -13,12 +13,6 @@ I enjoy building impactful projects, solving complex problems, and continuously 
   alt="GitHub Stats (Failed to load)"
 />
 
-<!-- GitHub Streak -->
-<img 
-  src="https://streak-stats.demolab.com?user=elijah-farrell&theme=dark&hide_border=true"
-  alt="GitHub Streak (Failed to load)"
-/>
-
 <!-- Top Languages -->
 <img 
   src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elijah-farrell&theme=dark&show_icons=true&hide_border=true&layout=pie"
