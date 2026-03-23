@@ -7,8 +7,6 @@ I enjoy building impactful projects, solving complex problems, and continuously 
 
 <div align="center">
 
-## 📊 GitHub Stats
-
 <img 
   src="https://github-readme-stats-one-bice.vercel.app/api?username=elijah-farrell&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
   alt="GitHub Stats"
